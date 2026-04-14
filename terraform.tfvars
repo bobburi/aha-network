@@ -10,4 +10,8 @@ subnets = {
     region = "us-east1"
     cidr   = "10.0.2.0/24"
   }
+    "aha-sub-west" = {
+    region = "us-west1"
+    cidr   = "10.0.3.0/24"
+  }
 }
